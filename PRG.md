@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Bash, GitHub CLI, GitHub Actions, GitHub Workflows <br>
 **Category:** Utility Scripts, CLI <br>
-**Order:** 9999 <br>
+**Order:** 45 <br>
 
 ## Parameters
 
